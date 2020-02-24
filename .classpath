@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/telkaraj/Desktop/eclipse-java-2018-09-win32-x86_64/jar files/Cucumberjars/cucumber-core-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/telkaraj/Desktop/eclipse-java-2018-09-win32-x86_64/jar files/Cucumberjars/cucumber-html-0.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/telkaraj/Desktop/eclipse-java-2018-09-win32-x86_64/jar files/Cucumberjars/cucumber-java-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/telkaraj/Desktop/eclipse-java-2018-09-win32-x86_64/jar files/Cucumberjars/cucumber-junit-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/telkaraj/Desktop/eclipse-java-2018-09-win32-x86_64/jar files/Cucumberjars/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/telkaraj/Desktop/eclipse-java-2018-09-win32-x86_64/jar files/Cucumberjars/cucumber-jvm-extentreport-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/telkaraj/Desktop/eclipse-java-2018-09-win32-x86_64/jar files/Cucumberjars/gherkin-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/telkaraj/Desktop/eclipse-java-2018-09-win32-x86_64/jar files/Cucumberjars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/telkaraj/Desktop/eclipse-java-2018-09-win32-x86_64/jar files/Cucumberjars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/telkaraj/Desktop/eclipse-java-2018-09-win32-x86_64/jar files/Cucumberjars/tag-expressions-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
